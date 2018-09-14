@@ -21,10 +21,10 @@ Java exercises that will help us learn the basics of programming
 
 In these exercises you can review the for and do loops, the if and switch conditions. All this in a fun way, with simple examples:
 
-how to calculate the prime numbers.
-replace characters.
-transform characters in ASCII code.
-a more complete calculator than the first one we did, etc.
+- how to calculate the prime numbers.
+- replace characters.
+- transform characters in ASCII code.
+- a more complete calculator than the first one we did, etc.
 These exercises are designed for you to practice and you can learn, in each class there is a statement with what is needed, you can try to do it on your own and use my code as help when you have doubts. I have also left comments to make it easier to understand.
 
 Hope you enjoy!
